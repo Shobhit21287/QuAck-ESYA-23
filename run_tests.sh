@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-python3 ~/.tests.py
+python3 ~/.jupyter_dependencies.py
