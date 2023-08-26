@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Installing python
+echo student | sudo -S apt install python3 -y
+
 # Installing vscode extension
 code --install-extension ms-python.python
 code --install-extension ms-toolsai.jupyter
