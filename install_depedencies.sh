@@ -6,6 +6,7 @@ echo student | sudo -S apt upgrade code -y
 
 # Installing python
 echo student | sudo -S apt install python3 -y
+echo student | sudo -S apt install python3-pip -y
 
 # Installing vscode extension
 code --install-extension ms-python.python
