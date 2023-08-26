@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# Updating code
+echo student | sudo apt update -y
+echo student | sudo apt upgrade code -y
+
 # Installing python
 echo student | sudo -S apt install python3 -y
 
