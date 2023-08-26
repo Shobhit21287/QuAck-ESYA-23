@@ -17,3 +17,4 @@ pip3 install nbimporter
 pip3 install nbformat
 pip3 install pylatexenc
 pip3 install matplotlib
+pip3 install IPython
